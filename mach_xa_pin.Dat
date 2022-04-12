@@ -1,17 +1,17 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~mach_xa_pin.PrjPcb|ReportField=ProjectFullPath~D:\Altium\mach_xa_pin\mach_xa_pin.PrjPcb|ReportField=Title~Bill of Materials For Project [mach_xa_pin.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~22|ReportField=ReportTime~3:38:05 PM|ReportField=ReportDate~3/28/2022|ReportField=ReportDateTime~3/28/2022 3:38:05 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/28/2022|ReportField=CurrentTime~3:37:25 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Altium\mach_xa_pin\mach_xa_pin_schematic.SchDoc|ReportField=DocumentName~mach_xa_pin_schematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/28/2022|ReportField=Organization~|ReportField=ProjectName~mach_xa_pin.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~mach_xa_pin.PrjPcb|ReportField=DataSourceFullPath~D:\Altium\mach_xa_pin\mach_xa_pin.PrjPcb
-1|10pF||C1|CN-SMD-0603|CN|1
-2|CAPACITOR TANTALO|CAPACITOR TANTALO Case B|C2|CASE B|CAPACITOR TANTALO|1
-3|JP5x2-2.0|WR-PHD 2.00 mm Dual Pin Header|C3|J5-D2T|JP5x2-2.0|1
-4|LED|LED 2 colour Green and Red|LED1|LED-32|LED2|1
-5|XT60_YELLOW|Power connector; 65A; PIN: 2; Colour: yellow|Q1|AMASS_XT60PB-M|XT60_YELLOW|1
-6|AO3400|HEXFET Power MOSFET|Q2|SOT-23_N|IRLML2402|1
-7|330R|Resistor|R1|RES-SMD-0603|Res-SMD|1
-8|220R|Resistor|R2, R3|RES-SMD-0603|Res-SMD|2
-9|1K|Res|R4|RES-1W|Res|1
-10|1K|Resistor|R5, R11, R13|RES-SMD-0603|Res-SMD|3
-11|10K|Resistor|R6, R10, R14|RES-SMD-0603|Res-SMD|3
-12|2K|Resistor|R7|RES-SMD-0603|Res-SMD|1
-13|4.7K|Resistor|R8, R9|RES-SMD-0603|Res-SMD|2
-14|15K|Resistor|R12|RES-SMD-0603|Res-SMD|1
-15|PIC12F683||U1|SO8|PIC12F683|1
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~mach_xa_pin.PrjPcb|ReportField=ProjectFullPath~D:\Altium\mach_xa_pin\mach_xa_pin.PrjPcb|ReportField=Title~Bill of Materials For Project [mach_xa_pin.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~25|ReportField=ReportTime~5:01:32 PM|ReportField=ReportDate~4/5/2022|ReportField=ReportDateTime~4/5/2022 5:01:32 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/5/2022|ReportField=CurrentTime~3:42:50 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Altium\mach_xa_pin\mach_xa_pin_schematic.SchDoc|ReportField=DocumentName~mach_xa_pin_schematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/5/2022|ReportField=Organization~|ReportField=ProjectName~mach_xa_pin.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~mach_xa_pin.PrjPcb|ReportField=DataSourceFullPath~D:\Altium\mach_xa_pin\mach_xa_pin.PrjPcb
+1|HT7533-1|Smd c.Int. Ht-7533-1 _Sot-89_Tape&Reel h Oltek.||SOT89|HT7533-1|1
+2|10pF||C1, C2, C4|CN-SMD-0603|CN|3
+3|1uF||C3|CN-SMD-0603|CN|1
+4|CAPACITOR TANTALO|CAPACITOR TANTALO Case B|C5|CASE B|CAPACITOR TANTALO|1
+5|STM8S003F3P6|MCU 8BIT  8KB FLASH TSSOP-20|IC1|TSSOP20|STM8S003F3P6|1
+6|USB-5||J1|USB-M1|USB-5|1
+7|Led 0603 Green||L1, L2, L3|LED 0603 GREEN|Led 0603 Green|3
+8|XT60_YELLOW|Power connector; 65A; PIN: 2; Colour: yellow|Q1|AMASS_XT60PB-M|XT60_YELLOW|1
+9|AO3400|HEXFET Power MOSFET|Q2|SOT-23_N|IRLML2402|1
+10|330R|Resistor|R1|RES-SMD-0603|Res-SMD|1
+11|220R|Resistor|R2, R3, R4|RES-SMD-0603|Res-SMD|3
+12|220R|Resistor|R5|RES-SMD-2512|Res-SMD|1
+13|10K|Resistor|R6, R10, R11|RES-SMD-0603|Res-SMD|3
+14|Res|Res|R7|RES-1/8W-SMALL-2|Res|1
+15|1K|Resistor|R8, R9|RES-SMD-0603|Res-SMD|2
 16|ZMM33B|Zener Diode|Z1|ZMM33B|ZMM33B|1
